@@ -1,4 +1,6 @@
-# micmute
+# micmute to DarkMicMute
+
+WIP - Dark Mode Version
 
 MicMute is a small program that will enable you to easily manage the level of a connected microphone. 
 The application also supports push-to-talk thanks to the built-in 'Transmitter Mode'. 
